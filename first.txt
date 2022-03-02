@@ -1,3 +1,8 @@
 Hey Buddy how are you..!!
 this an GIT created file
+<<<<<<< HEAD
 this is from Fix branch
+=======
+Hey buddy good morning
+you will have a good day.
+>>>>>>> branch-1
