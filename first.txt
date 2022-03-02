@@ -4,7 +4,12 @@ this is from Fix branch
 Hey buddy good morning
 you will have a good day.
 Whatever happens. happens for a reason
+<<<<<<< HEAD
 Todays date 02-02-2022
 
 
+=======
+Game improves Logial thinking
+minn kattanam attai
+>>>>>>> 6bdb38dce8100408c9d3ad4db8f2017efbb2b833
 
